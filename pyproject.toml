@@ -6,6 +6,7 @@ readme = "README.md"
 authors = [{ name = "IBM Corp." }]
 requires-python = ">=3.11,<4.0"
 dependencies = [
+    "beeai-framework>=0.1.39",
     "beeai-sdk==0.3.0rc7",
     "pyyaml>=6.0.2",
 ]
